@@ -1,4 +1,4 @@
-# Student Database - Project from CS 211
+# Student Database 
 
 This student database allows an admin or student to access data. In order to gain access, users must enter correct password which was auto generated. 
 
