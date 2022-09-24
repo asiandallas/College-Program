@@ -1,4 +1,6 @@
-# Student Database 
+# College Program 
+
+Program done in C++
 
 Note: Project assigned by Prof Slott in CS 211. Worked throughout semester as we progressed through the material 
 
