@@ -9,8 +9,8 @@ From the admin's side, they are able to add students into the Student array, whe
 From the student side, a student is able to add and drop a course. For each course a student adds, it is $50.14. Because they owe money, a student is able to make a payment in the format [dollar] [cent]. Student can also view their own information.
 
 ### Running Program
-- Compile: g++ *.cpp
-- Execution: ./a.out
+- Compile: `g++ *.cpp`
+- Execution: `./a.out`
 
 ### Topic covered: Classes (OOP)
 - Price class is able to do simple math operations
