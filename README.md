@@ -1,7 +1,5 @@
 # College Program 
 
-Note: Project assigned by Prof Slott in CS 211. Worked throughout semester as we progressed through the material 
-
 This student database allows an admin or student to access data. In order to gain access, users must enter correct password which was auto generated. 
 
 From the admin's side, they are able to add students into the Student array, where the size is currently fixed at 100. A .txt, .dat, .csv file in the format [firstname] [lastname] [gender] is also able to automatically generate students. Admin is also able to drop students, and view student information.
